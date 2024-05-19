@@ -1,0 +1,1 @@
+Aplicação é feita com JavaScript, HTML e CSS. Ele mede a força da senha o quão ela é forte incluindo caracteres de diversos tipos e mostra uma cor com o nível da senha de vermelho a muito fraca a verde de muito forte além de mostrar um texto abaixo da barra mostrando o nível da senha digitada.
